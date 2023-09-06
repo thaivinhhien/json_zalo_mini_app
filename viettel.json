@@ -1,0 +1,6 @@
+[
+    { "id": "20", "name": "20.000đ", "poin": "20", "img": "https://raw.githubusercontent.com/thaivinhhien/json_zalo_mini_app/main/img/viettel-20.png" },
+    { "id": "100", "name": "100.000đ", "poin": "100", "img": "https://raw.githubusercontent.com/thaivinhhien/json_zalo_mini_app/main/img/viettel-100.jpg" },
+    { "id": "200", "name": "200.000đ", "poin": "200", "img": "https://raw.githubusercontent.com/thaivinhhien/json_zalo_mini_app/main/img/viettel-200.jpg" },
+    { "id": "500", "name": "500.000đ", "poin": "500", "img": "https://raw.githubusercontent.com/thaivinhhien/json_zalo_mini_app/main/img/viettel-500.jpg" }
+]
